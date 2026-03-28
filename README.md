@@ -14,3 +14,5 @@ Check ‘ad-hoc-requests.pdf’ - there are 10 ad hoc requests for which the bus
 You need to run a SQL query to answer these requests.
 The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
 Be creative with your presentation, audio/video presentation will have more weightage.
+
+
